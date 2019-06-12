@@ -1,0 +1,7 @@
+-cp src
+-D analyzer-optimize
+-main Main
+-lib tink_core
+-lib postite_droz
+-debug
+-js www/app.js
